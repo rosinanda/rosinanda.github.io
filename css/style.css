@@ -503,6 +503,7 @@ a:focus {
 
 .about .about-text p {
     font-size: 16px;
+    text-align: justify;
 }
 
 .about .skills {
@@ -748,12 +749,12 @@ a:focus {
 
 .service .service-icon {
     position: relative;
-    width: 150px;
+    width: 50px;
     min-height: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #d46aa4;
+    /* border: 1px solid #d46aa4; */
     background: #ffffff;
 }
 
